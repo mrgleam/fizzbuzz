@@ -1,5 +1,6 @@
 # fizzbuzz with BDD (goconvey)
 [![Build Status](https://travis-ci.org/mrgleam/fizzbuzz.svg?branch=master)](https://travis-ci.org/mrgleam/fizzbuzz)
+[![Coverage Status](https://coveralls.io/repos/github/mrgleam/fizzbuzz/badge.svg?branch=master)](https://coveralls.io/github/mrgleam/fizzbuzz?branch=master)
 
 Get started
 
