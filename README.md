@@ -2,6 +2,11 @@
 [![Build Status](https://travis-ci.org/mrgleam/fizzbuzz.svg?branch=master)](https://travis-ci.org/mrgleam/fizzbuzz)
 [![Coverage Status](https://coveralls.io/repos/github/mrgleam/fizzbuzz/badge.svg?branch=master)](https://coveralls.io/github/mrgleam/fizzbuzz?branch=master)
 
+Go version
+
+ * 1.5.1
+ * 1.6
+
 Get started
 
 `$ go get github.com/smartystreets/goconvey`
